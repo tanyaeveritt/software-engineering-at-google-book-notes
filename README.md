@@ -132,3 +132,7 @@ Type `/tutor` to start an interactive tutoring session. Here's what happens:
 5. **Error notes are recorded** - when you get something wrong, the specific mistake and the correct answer are logged in the concept tracker so you can review them later
 
 The tutor adapts to your performance over time. Weak areas get prioritised, and mastered topics are deprioritised, giving you an efficient study loop.
+
+---
+> **Disclaimer:* These are unofficial personal summary notes based on Software Engineering at Google (Winters, Manshreck & Wright, O'Reilly Media). They are not affiliated with, endorsed by, or produced by the authors, Google, or O'Reilly Media. All credit for the original content belongs to the respective authors and publishers.
+
