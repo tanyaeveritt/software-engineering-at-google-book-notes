@@ -1,12 +1,10 @@
 # Software Engineering at Google - StudyVault
+*Based on the book [Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book) by Titus Winters, Tom Manshreck, and Hyrum Wright. The book covers how Google builds and maintains software at scale, spanning culture, processes, tools, testing, and infrastructure. It distils hard-won lessons from decades of engineering practice into principles applicable to any software organisation.*
 
 Tired of searching for good resources to understand software engineering principles, only to end up staring at a 600+ page book? These are the summary notes, structured, searchable, and built for active recall so you can learn the key ideas without reading cover to cover.
 
 **Who this is for:** Anyone interested in getting into a tech role that includes coding as part of day-to-day work, or managing people who do. These notes are useful at all experience levels but especially valuable if you're early in your career. The book's lessons on culture, code review, testing, and tooling are things most engineers learn the hard way over years, and having them upfront gives you a real advantage.
 
-Based on the book *Software Engineering at Google: Lessons Learned from Programming Over Time* by Titus Winters, Tom Manshreck, and Hyrum Wright.
-
-The book covers how Google builds and maintains software at scale, spanning culture, processes, tools, testing, and infrastructure. It distils hard-won lessons from decades of engineering practice into principles applicable to any software organisation.
 
 **Why use these summary notes?**
 Not sure if the book is worth your time? These notes are a great way to find out. The **full book** (*Software Engineering at Google*) runs ~600 pages and roughly **10–12 hours** of reading. These **study notes** cover all 25 chapters in around **1.5–2 hours** — no exercises, just the core ideas.
