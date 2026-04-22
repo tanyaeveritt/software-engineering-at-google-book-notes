@@ -8,6 +8,8 @@ keywords: leadership, management, tech-lead, servant-leadership, antipatterns, p
 
 #leadership #culture
 
+*Reading time: ~7 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

@@ -8,6 +8,8 @@ keywords: leadership, scaling, delegation, trade-offs, self-driving teams
 
 #leadership #culture
 
+*Reading time: ~3 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

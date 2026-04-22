@@ -8,6 +8,8 @@ keywords: productivity, metrics, QUANTS, GSM framework, measurement, data-driven
 
 #leadership #culture
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

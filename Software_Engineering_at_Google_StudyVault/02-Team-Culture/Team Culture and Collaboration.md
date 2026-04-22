@@ -8,6 +8,8 @@ keywords: teamwork, humility, respect, trust, genius-myth, collaboration
 
 #team-dynamics #culture
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

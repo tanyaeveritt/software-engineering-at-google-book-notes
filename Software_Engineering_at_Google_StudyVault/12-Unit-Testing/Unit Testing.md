@@ -8,6 +8,8 @@ keywords: unit-testing, maintainability, brittle-tests, public-api, behaviors, D
 
 #unit-testing #testing #processes #damp-not-dry
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

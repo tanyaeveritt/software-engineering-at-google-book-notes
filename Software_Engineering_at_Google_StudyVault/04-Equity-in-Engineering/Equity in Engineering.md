@@ -8,6 +8,8 @@ keywords: equity, diversity, inclusion, bias, multicultural-capacity, underrepre
 
 #equity #culture
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

@@ -8,6 +8,8 @@ keywords: documentation, code comments, doc types, audience, freshness, technica
 
 #documentation #processes
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

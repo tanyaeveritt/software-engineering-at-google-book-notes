@@ -8,6 +8,8 @@ keywords: build systems, Bazel, Blaze, artifact-based, task-based, distributed b
 
 #build-systems #tools
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

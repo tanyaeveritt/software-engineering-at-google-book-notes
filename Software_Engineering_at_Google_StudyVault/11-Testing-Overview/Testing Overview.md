@@ -8,6 +8,8 @@ keywords: testing, automation, test-size, test-scope, beyonce-rule, test-pyramid
 
 #testing #processes #beyonce-rule
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

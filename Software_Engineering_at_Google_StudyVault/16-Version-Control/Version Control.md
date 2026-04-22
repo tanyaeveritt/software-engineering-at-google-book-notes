@@ -8,6 +8,8 @@ keywords: version control, branch management, trunk-based development, monorepo,
 
 #version-control #tools
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

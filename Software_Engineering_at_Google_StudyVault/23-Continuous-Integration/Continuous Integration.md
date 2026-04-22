@@ -8,6 +8,8 @@ keywords: continuous integration, CI, TAP, presubmit, post-submit, hermetic test
 
 #continuous-integration #tools
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

@@ -8,6 +8,8 @@ keywords: test-doubles, faking, stubbing, mocking, interaction-testing, real-imp
 
 #test-doubles #testing #processes #faking #stubbing #mocking
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

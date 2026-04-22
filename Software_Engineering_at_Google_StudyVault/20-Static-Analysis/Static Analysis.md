@@ -8,6 +8,8 @@ keywords: static analysis, Tricorder, Error Prone, false positives, developer ha
 
 #static-analysis #tools
 
+*Reading time: ~6 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

@@ -8,6 +8,8 @@ keywords: deprecation, advisory, compulsory, migration, Hyrum-Law, code-liabilit
 
 #deprecation #processes
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

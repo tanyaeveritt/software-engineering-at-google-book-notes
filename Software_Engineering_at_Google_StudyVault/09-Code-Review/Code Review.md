@@ -8,6 +8,8 @@ keywords: code review, LGTM, readability, ownership, correctness, knowledge shar
 
 #code-review #processes
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

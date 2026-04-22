@@ -8,6 +8,8 @@ keywords: larger-testing, integration-tests, fidelity, SUT, hermetic-testing, en
 
 #larger-testing #testing #processes #hermetic-testing
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

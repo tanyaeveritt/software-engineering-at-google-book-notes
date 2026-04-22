@@ -8,6 +8,8 @@ keywords: style guides, rules, consistency, code formatting, readability, toolin
 
 #style-guide #processes
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

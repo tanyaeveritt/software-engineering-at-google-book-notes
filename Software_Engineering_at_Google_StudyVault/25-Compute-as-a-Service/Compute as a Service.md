@@ -8,6 +8,8 @@ keywords: compute as a service, CaaS, Borg, containers, cattle vs pets, serverle
 
 #compute #tools
 
+*Reading time: ~6 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

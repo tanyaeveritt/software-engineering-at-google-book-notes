@@ -8,6 +8,8 @@ keywords: continuous delivery, CD, release trains, feature flags, A/B testing, d
 
 #continuous-delivery #tools
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

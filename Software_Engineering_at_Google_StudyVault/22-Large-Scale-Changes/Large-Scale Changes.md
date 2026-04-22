@@ -8,6 +8,8 @@ keywords: large-scale changes, LSC, Rosie, refactoring, codebase migration, code
 
 #large-scale-changes #tools
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

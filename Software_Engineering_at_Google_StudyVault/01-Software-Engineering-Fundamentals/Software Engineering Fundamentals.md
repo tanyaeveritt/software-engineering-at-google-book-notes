@@ -8,6 +8,8 @@ keywords: software-engineering, programming, sustainability, time, scale, trade-
 
 #swe-at-google #culture #hyrums-law #beyonce-rule #shifting-left
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

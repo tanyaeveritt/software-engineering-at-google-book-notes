@@ -8,6 +8,8 @@ keywords: knowledge-sharing, psychological-safety, mentorship, documentation, re
 
 #knowledge-sharing #culture
 
+*Reading time: ~5 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

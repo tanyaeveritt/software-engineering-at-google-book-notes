@@ -8,6 +8,8 @@ keywords: Critique, code review, code review tool, LGTM, attention set, diffing,
 
 #code-review #tools
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

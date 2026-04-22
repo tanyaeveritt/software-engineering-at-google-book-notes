@@ -8,6 +8,8 @@ keywords: code search, code browsing, Kythe, cross-references, ranking, indexing
 
 #code-search #tools
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|

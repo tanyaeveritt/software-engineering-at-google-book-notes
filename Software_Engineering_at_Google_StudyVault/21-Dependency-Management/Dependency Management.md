@@ -8,6 +8,8 @@ keywords: dependency management, SemVer, diamond dependency, Hyrum's Law, Live a
 
 #dependency-management #tools
 
+*Reading time: ~4 min*
+
 ## Overview Table (At a Glance)
 | Item | Key Point |
 |------|-----------|
