@@ -59,9 +59,9 @@ Software_Engineering_at_Google_StudyVault/
 ├── 02-Team-Culture/
 │   ├── ...
 ├── ...  (25 chapters total, 01 through 25)
-├── concepts/                                     ← per-topic progress trackers
+├── concepts/                                     ← per-topic progress trackers -- created from /tutor skill
 │   └── <topic>.md
-└── Learning Dashboard.md                         ← overall progress
+└── Learning Dashboard.md                         ← overall progress -- created from /tutor skill
 ```
 
 **25 chapters**, each containing two files:
@@ -107,7 +107,6 @@ Open `00-Dashboard/MOC - Software Engineering at Google.md`. This is the central
 
 - **Quick Reference** (`00-Dashboard/Quick Reference.md`) - condensed cheat sheet of every chapter's key points
 - **Exam Traps** (`00-Dashboard/Exam Traps.md`) - common mistakes and tricky distinctions
-- **Learning Dashboard** (`Learning Dashboard.md`) - tracks your quiz performance per topic with colour-coded mastery levels
 
 ---
 
