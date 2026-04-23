@@ -69,11 +69,15 @@ Software_Engineering_at_Google_StudyVault/
 - **Study notes** - key concepts, summary tables, and related note links
 - **Practice questions** - recall, application, and analysis questions with collapsible answers
 
-<img width="1250" height="882" alt="Screenshot 2026-04-22 at 9 49 24 pm" src="https://github.com/user-attachments/assets/c02d67b8-3f24-4760-9b20-635a44db2045" />
 
-<img width="1399" height="861" alt="Screenshot 2026-04-22 at 9 49 44 pm" src="https://github.com/user-attachments/assets/e538d527-57ab-4915-8f47-5f3f41a6410c" />
+https://github.com/user-attachments/assets/be0dc6ff-bde5-4dd5-8f60-febfb88955d4
 
-<img width="1422" height="841" alt="Screenshot 2026-04-22 at 9 50 34 pm" src="https://github.com/user-attachments/assets/f1296954-3c62-4711-b318-40381e22d3c0" />
+
+<img width="600"  alt="Screenshot 2026-04-22 at 9 49 24 pm" src="https://github.com/user-attachments/assets/c02d67b8-3f24-4760-9b20-635a44db2045" />
+
+<img width="600"  alt="Screenshot 2026-04-22 at 9 49 44 pm" src="https://github.com/user-attachments/assets/e538d527-57ab-4915-8f47-5f3f41a6410c" />
+
+<img width="600"  alt="Screenshot 2026-04-22 at 9 50 34 pm" src="https://github.com/user-attachments/assets/f1296954-3c62-4711-b318-40381e22d3c0" />
 
 ---
 
